@@ -1,4 +1,4 @@
-           # Apartment Rental Service
+# Apartment Rental Service
 
 Apartment Rental Service is a web application developed using Spring Boot. It allows users to register, log in, list apartments for rent, rent an apartment for a specific range of dates, and edit their bookings.
 
