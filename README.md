@@ -34,7 +34,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing and Running
 
 1. Clone the repo: `git clone https://github.com/aleksanderinglot/spring-boot-apartment-rental-service.git`
-2. Navigate to the project directory: `cd apartment-rental-service`
+2. Navigate to the project directory: `cd spring-boot-apartment-rental-service`
 3. Set up your MySQL database. You will need to create a database and configure the `application.properties` file in the project to use this database.
 4. Install dependencies: `mvn install`
 5. Run the project: `mvn spring-boot:run`
