@@ -38,6 +38,7 @@ These instructions will get you a copy of the project up and running on your loc
 3. Set up your MySQL database. You will need to create a database and configure the `application.properties` file in the project to use this database.
 4. Install dependencies: `mvn install`
 5. Run the project: `mvn spring-boot:run`
+6. Go to the frontend link (https://github.com/aleksanderinglot/angular-apartment-rental-service) and follow the installation instructions.
 
 ## Screenshots
 
